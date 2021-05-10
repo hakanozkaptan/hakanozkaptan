@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=hakanozkaptan&color=green)
-
 ### Connect with me:
 
 [<img align="left" alt="Hakan Ozkaptan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+![](https://komarev.com/ghpvc/?username=hakanozkaptan&color=green)
 
 <br />
 
