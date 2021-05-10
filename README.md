@@ -13,10 +13,5 @@
 
 <br /><br />
 
-📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hakanozkaptan&show_icons=true&theme=gotham" alt="hakanozkaptan" />
-
-
 
 [linkedin]: https://www.linkedin.com/in/hakanozkaptan/
